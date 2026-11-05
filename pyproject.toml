@@ -12,6 +12,7 @@ dependencies = [
     "langchain==1.4.8",
     "langchain-openai==1.7.3",
     "python-math==0.0.1",
+    "sqlite-vec==0.1.9",
 ]
 
 [dependency-groups]

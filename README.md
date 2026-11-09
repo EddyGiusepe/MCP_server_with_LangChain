@@ -11,7 +11,9 @@ An MCP server that exposes tools to LangChain agents, enabling the integration o
 
 
 
+Study link:
 
+* [Transports in MCP](https://modelcontextprotocol.io/specification/2026-07-28/basic/transports)
 
 
 
